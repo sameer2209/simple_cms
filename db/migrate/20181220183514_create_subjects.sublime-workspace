@@ -1,0 +1,448 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"index"
+			],
+			[
+				"pa",
+				"pages"
+			],
+			[
+				"con",
+				"content_type"
+			],
+			[
+				"se",
+				"sections"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"st",
+				"string"
+			],
+			[
+				"sub",
+				"subjects"
+			],
+			[
+				"read",
+				"read_handler"
+			],
+			[
+				"Fi",
+				"File\tFile.read(\"..\")"
+			],
+			[
+				"c",
+				"count"
+			],
+			[
+				"s",
+				"string\tstandard header"
+			],
+			[
+				"pri",
+				"printmaxsub"
+			],
+			[
+				"b",
+				"begin"
+			],
+			[
+				"p",
+				"push_back"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"pr",
+				"printSubsequence"
+			],
+			[
+				"ios",
+				"iostream\tstandard header"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"si",
+				"size_"
+			],
+			[
+				"rer",
+				"return"
+			],
+			[
+				"respo",
+				"response"
+			],
+			[
+				"siz",
+				"size_"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"Re",
+				"Response"
+			],
+			[
+				"N",
+				"Node"
+			],
+			[
+				"cla",
+				"calcHeight"
+			],
+			[
+				"che",
+				"children"
+			],
+			[
+				"e",
+				"empty"
+			],
+			[
+				"ope",
+				"opening_brackets_stack"
+			],
+			[
+				"MPI_",
+				"MPI_CHAR"
+			],
+			[
+				"MPI",
+				"MPI_COMM_WORLD"
+			],
+			[
+				"MP",
+				"MPI_COMM_WORLD"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"MO",
+				"MPI_COMM_WORLD"
+			],
+			[
+				"str",
+				"strlen"
+			],
+			[
+				"S",
+				"status"
+			],
+			[
+				"flag",
+				"flag2"
+			],
+			[
+				"ar",
+				"argv"
+			],
+			[
+				"arg",
+				"argc"
+			],
+			[
+				"f",
+				"fp1"
+			],
+			[
+				"is",
+				"isAlph"
+			],
+			[
+				"fe",
+				"fgetc"
+			],
+			[
+				"ic",
+				"include"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "20181220183538_create_pages.rb",
+			"settings":
+			{
+				"buffer_size": 384,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/sameer/Sites/blogger/app/models/article.rb",
+		"/home/sameer/Sites/blogger/config/database.yml",
+		"/home/sameer/Sites/blogger/app/controllers/application_controller.rb",
+		"/home/sameer/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/railties-5.2.2/lib/rails/application/configuration.rb",
+		"/home/sameer/.rbenv/versions/2.5.3/lib/ruby/site_ruby/2.5.0/rubygems/core_ext/kernel_require.rb",
+		"/home/sameer/Sites/blogger/Gemfile",
+		"/home/sameer/Sites/blogger/Gemfile.lock",
+		"/home/sameer/Sites/simple_cms/config/database.yml",
+		"/home/sameer/Sites/simple_cms/db/migrate/20181220150623_do_nothing_yet.rb",
+		"/home/sameer/Sites/simple_cms/app/models/user.rb",
+		"/home/sameer/Sites/simple_cms/app/views/demo/index.html.erb",
+		"/home/sameer/Sites/simple_cms/app/views/demo/hello.html.erb",
+		"/home/sameer/Sites/simple_cms/config/routes.rb",
+		"/home/sameer/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/sameer/ruby programs/hello.rb",
+		"/home/sameer/Desktop/Codeforces/round 486 Div 3/substringsSort.cpp",
+		"/home/sameer/Desktop/Codechef/august-long-challenge/sheonum.cpp",
+		"/home/sameer/Desktop/Codeforces/round 481 div 3/filename.cpp",
+		"/home/sameer/Desktop/Codechef/September-long/MagicvsChef.cpp",
+		"/home/sameer/Desktop/Codechef/September-long/chefAdv.cpp",
+		"/home/sameer/Desktop/Codechef/September-long/WarofXOR.cpp",
+		"/home/sameer/Desktop/geeksforgeeks/pairWiseSwap.cpp",
+		"/home/sameer/Desktop/geeksforgeeks/longestIncreasingSubsequence.cpp",
+		"/home/sameer/Desktop/CodeChef-practice/PrintSubsequences.cpp",
+		"/home/sameer/Desktop/Codeforces/round 481 div 3/letters.cpp",
+		"/home/sameer/Desktop/Codeforces/round 481 div 3/remvoedup.cpp",
+		"/home/sameer/Desktop/Codeforces/round 479 div 3/div3mul2.cpp",
+		"/home/sameer/Desktop/Codeforces/round 479 div 3/lessorequal.cpp",
+		"/home/sameer/Desktop/Codeforces/round 479 div 3/twogram.cpp",
+		"/home/sameer/Desktop/Codeforces/round 479 div 3/wrongsub.cpp",
+		"/home/sameer/Desktop/Codeforces/round no 501 div 3/songscompression.cpp",
+		"/home/sameer/Desktop/Codeforces/round no 501 div 3/PointsInSegments.cpp",
+		"/home/sameer/Desktop/Codeforces/practice/minsteps.cpp",
+		"/home/sameer/Desktop/Codeforces/Educational round 47/MinTernString.cpp",
+		"/home/sameer/Desktop/Codeforces/practice/fakenp.cpp",
+		"/home/sameer/Desktop/Codeforces/practice/findamir.cpp",
+		"/home/sameer/Desktop/SPOJ/progression.cpp",
+		"/home/sameer/Desktop/SPOJ/lucifernum.cpp",
+		"/home/sameer/Desktop/Codechef/august-long-challenge/spellbob.cpp",
+		"/home/sameer/Desktop/Codechef-July-2018/Innerve Summer Code Challenge/friendsmeeting.cpp",
+		"/home/sameer/Desktop/Codechef-July-2018/NominNomax.cpp",
+		"/home/sameer/Desktop/Codechef-July-2018/Innerve Summer Code Challenge/goodsubset1.cpp",
+		"/home/sameer/Desktop/Codechef-July-2018/Innerve Summer Code Challenge/krishcontainers1.cpp",
+		"/home/sameer/Desktop/Codechef-July-2018/Innerve Summer Code Challenge/KrishContainers.cpp",
+		"/home/sameer/Desktop/Codechef-July-2018/Innerve Summer Code Challenge/goodsubset.cpp",
+		"/home/sameer/Desktop/Codechef-July-2018/NoStrings.cpp",
+		"/home/sameer/Desktop/Codechef/August-long-challenge",
+		"/home/sameer/Desktop/Codechef-July-2018/Innerve Summer Code Challenge/bigmul.cpp",
+		"/home/sameer/Desktop/coursera-data-structures-starter-code/buildHeap.cpp",
+		"/home/sameer/Desktop/CodeChef-practice/test.cpp",
+		"/home/sameer/Desktop/coursera-data-structures-starter-code/phone_book/phone_book.cpp",
+		"/home/sameer/Desktop/Codeforces/Educational round 47/GameShopping.cpp",
+		"/home/sameer/Desktop/Codeforces/round 486 Div 3/DiverseTeam.cpp",
+		"/home/sameer/Desktop/Codechef-July-2018/test.cpp",
+		"/home/sameer/Desktop/Codechef-July-2018/Pins.cpp",
+		"/home/sameer/Desktop/Codechef-July-2018/MagicSet.cpp",
+		"/home/sameer/Desktop/CodeChef-practice/MicroWorld.cpp",
+		"/home/sameer/Desktop/coursera-data-structures-starter-code/check_brackets_in_code/check_brackets.cpp",
+		"/home/sameer/Desktop/coursera-data-structures-starter-code/tree_height/tree-height.cpp",
+		"/home/sameer/Desktop/coursera-data-structures-starter-code/network_packet_processing_simulation/process_packages.cpp",
+		"/home/sameer/Desktop/Codeforces/PloycarpsPocket.cpp",
+		"/home/sameer/Desktop/pcap lab practice/lab2AEq1.c",
+		"/home/sameer/Desktop/pcap lab practice/lab3q5.c",
+		"/home/sameer/Desktop/pcap lab practice/lab4q3.c",
+		"/home/sameer/Desktop/pcap lab practice/lab4q5.c",
+		"/home/sameer/Desktop/pcap lab practice/lab4AEq4.c",
+		"/home/sameer/Downloads/CD Lab/lexAnalyzer.c",
+		"/var/lib/mysql/mujconnect/student.frm",
+		"/etc/NetworkManager/system-connections/ubuntu_hotspot"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "20181220183538_create_pages.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								384,
+								384
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Ruby/Ruby.sublime-build",
+	"project": "20181220183514_create_subjects.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
