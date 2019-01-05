@@ -45,9 +45,14 @@ class SubjectsController < ApplicationController
   end
 
   def destroy
-    subject = Subject.find(params[:id]).destroy
-    flash[:notice] = "Subect '#{subject.name}' destroyed successfully."
-    redirect_to(:action => 'index')
+    @subject = Subject.find(params[:id])
+    if @subject.destroy 
+      flash[:notice] = "Subect '#{@subject.name}' destroyed successfully."
+      redirect_to subjects_path
+    else
+      flash[:notice] = "Error occured"
+        
+    end
   end
 
   private
