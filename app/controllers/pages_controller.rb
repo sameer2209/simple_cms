@@ -40,9 +40,17 @@ class PagesController < ApplicationController
 	end
 
 	def delete
+		@page = Page.find(params[:id])
 	end
 
 	def destroy
+		@page = Page.find(params[:id])
+		if @page.destroy
+			flash[:notice] = "Page '#{@page.name}' destroyed successfully"
+			redirect_to('index')
+		else
+			flash[:notice] = "Error occured"
+		end
 	end
 
 	private

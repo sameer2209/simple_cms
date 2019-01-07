@@ -18,7 +18,7 @@
 			<td class="actions">
 				<%= link_to "Show", page_path(page) %>
 				<%= link_to "Edit", edit_page_path(page) %>
-				<%= link_to("Delete", '#') %>
+				<%= link_to "Delete", page_path(page), method: :delete, data: { confirm: 'Are you sure?'}  %>
 			</td>
 		</tr>
 		<% end %>
